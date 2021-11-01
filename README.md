@@ -1,2 +1,2 @@
 # Pagina-do-Starbucks
-<img src="Starbucks.png" width="80%" alt="screen-shot"/>
+<img src="Starbucks.png" width="100%" alt="screen-shot"/>
